@@ -1,0 +1,17 @@
+# Dependency files
+node_modules/
+/.next/
+
+# Local env files
+.env*.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.vscode/
+.idea/
